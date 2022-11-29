@@ -1,8 +1,9 @@
 # MekanBul 
 Rest API Testleri
 -  Thunder Client API Test
-![](images/runAllTeste.png)
+![](images/r![runAllTeste](https://user-images.githubusercontent.com/96134531/204568530-a88e550b-b9f9-439b-bec3-77c04389e1cc.png)
 
 -  Mochawesome API Test
-![](images/mochaTeste.png)
+![](images/mocha![mochaTeste](https://user-images.githubusercontent.com/96134531/204568624-56ef3cfe-8670-48ee-9608-514609bcd1f6.png)
+
 
